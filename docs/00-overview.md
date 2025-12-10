@@ -100,9 +100,11 @@ We define tools like:
     }
   }
 }
+```
 
 ---
-### 4. **Orchestration Engine
+
+### 4. **Orchestration Engine**
 The core system that:
 Receives instructions from LLM
 Executes tools

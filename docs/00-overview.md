@@ -146,6 +146,46 @@ Cross-platform (Windows/Linux)
 
 ---
 
+## 🚀 Development Phases
+### **Phase 1 — POC: Basic Desktop Control**
+Open TextEdit
+Type text
+Save file
+Close app
+Controlled via Python
+🎯 Goal: a working automation layer
+
+### **Phase 2 — LLM Integration**
+Add GPT reasoning
+Implement function calling
+Enable natural language → action mapping
+🎯 Goal: “Agent can follow simple instructions”
+
+
+### **Phase 3 — Expand App Support**
+Word / Excel (via AppleScript + automation)
+Keynote slide automation
+Finder automation
+Browser tasks
+PyCharm developer workflows
+🎯 Goal: a truly universal desktop agent
+
+
+### **Phase 4 — Intelligent Agent**
+Multi-step planning
+Error detection
+Self-correction
+Fine-tuned prompt engineering
+Memory of user preferences
+🎯 Goal: human-like digital co-pilot
+
+**🌟 Key Features of the Final System**
+Works with any macOS application
+No custom plugin or extension needed
+Purely local automation (your data stays on your machine)
+AI understands high-level tasks
+Automation engine handles the execution
+
 # ✔ Next Step  
 ### Continue to next document file
 

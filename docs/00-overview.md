@@ -147,10 +147,9 @@ Cross-platform (Windows/Linux)
 ---
 
 # ✔ Next Step  
-### Should I generate the next documentation file?
+### Continue to next document file
 
 ## 👉 `docs/01-macos-automation-basics.md`
 
-Just say:  
-**“Yes, generate next chapter.”**
+
 
